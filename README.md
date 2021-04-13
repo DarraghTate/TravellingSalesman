@@ -4,7 +4,7 @@ A Data Structures & Algorithms Assignment
 This project was a substitute for a summer 2020 exam, which was cancelled due to the Covid-19 pandemic.
 
 This project was about finding the fastest route through 1000 airports with the following stipulations:  
-   -Any airport visited must be more that 150km away from the current airport  
+   -Any airport visited must be more that 100km away from the current airport  
    -An airplane is on the ground for 30 minutes per airport  
    -Airports can be revisited  
    -Every airport in the list must be visited at least once  
