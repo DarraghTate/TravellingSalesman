@@ -1,6 +1,12 @@
 # TravellingSalesman
 A Data Structures & Algorithms Assignment
 
+To download, enter the command:
+   git clone https://github.com/DarraghTate/TravellingSalesman.git
+   
+The repo includes a compiled Java .class file, so to execute the program use the command:
+   java TravellingSalesman
+
 This project was a substitute for a summer 2020 exam, which was cancelled due to the Covid-19 pandemic.
 
 This project was about finding the fastest route through 1000 airports with the following stipulations:  
